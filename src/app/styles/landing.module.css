@@ -1,0 +1,24 @@
+@font-face {
+    font-family: 'Acma-Medium';
+    src: url('../fonts/PPAcma-Medium.woff') format('woff'),
+        url('../fonts/PPAcma-Medium.woff2') format('woff2');
+}
+
+.landing {
+    position: absolute;
+    width: 95dvw;
+    height: 100vh;
+    padding: 0 2.5dvw;
+}
+
+.titleContainer {
+    clip-path: inset(0);
+}
+
+h1.title {
+    
+    font-family: 'Acma-Medium', sans-serif;
+    color: white;
+    font-size: 11.75vw;
+    padding: none;
+}

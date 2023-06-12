@@ -15,10 +15,11 @@
     clip-path: inset(0);
 }
 
-h1.title {
+.title {
     
     font-family: 'Acma-Medium', sans-serif;
     color: white;
     font-size: 11.75vw;
-    padding: none;
+    padding: 0;
+    margin: 0;
 }
